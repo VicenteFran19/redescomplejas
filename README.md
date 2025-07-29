@@ -13,22 +13,6 @@ Simular, modelar y analizar una red financiera donde empresas actúan como garan
 
 ---
 
-## 📂 Estructura del Repositorio
-
-```
-📁 redes-garantias-crediticias/
-│
-├── M8_Trabajo_Final_Redes_Garantias_Notebook.ipynb   # Notebook con todo el análisis y visualización
-├── M8_Trabajo_Final_Redes_Garantias_Informe.pdf      # Informe académico con resultados, discusión y recomendaciones
-├── data/
-│   └── garantias_dataset_final.csv                             # Dataset simulado de relaciones de garantía (si aplica)
-├── images/
-│   └── *.png                                          # Gráficos exportados (grafo, cliques, heatmaps, curvas ROC, etc.)
-└── README.md                                          # Este archivo
-```
-
----
-
 ## 🛠️ Herramientas y Librerías Utilizadas
 
 - Python 3.10+
